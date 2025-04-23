@@ -48,6 +48,7 @@ Este projeto é um exercício prático de um curso introdutório, focado em ente
 Curso: *AWS Data Lake: criando uma pipeline para ingestão de dados*  
 Instrutor(a): Ana Hashimoto  
 Plataforma: Alura
+🔐 As credenciais da AWS são carregadas de variáveis de ambiente para evitar exposição no código. 
 
 ---
 
